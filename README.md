@@ -1,6 +1,6 @@
 # Sobre mí 👋
 
-🎓 Estudiante de Ingeniería en Sistemas Computacionales en la UAdeC
+🎓 Estudiante de Ingeniería en Sistemas Computacionales en la UAdeC   
 💻 Interesado en Inteligencia Artificial, Machine Learning y Desarrollo de Software  
 🔬 Participante del Programa Delfín - IPN  
 🌎 Apasionado por la tecnología y la investigación
