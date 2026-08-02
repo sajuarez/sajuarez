@@ -1,11 +1,11 @@
-# Sobre mí 👋
+# About Me 👋
 
-🎓 Estudiante de Ingeniería en Sistemas Computacionales en la UAdeC   
-💻 Interesado en Inteligencia Artificial, Machine Learning y Desarrollo de Software  
-🔬 Participante del Programa Delfín - IPN  
-🌎 Apasionado por la tecnología y la investigación
+🎓 Computer Systems Engineering student at UAdeC  
+💻 Interested in Artificial Intelligence, Machine Learning, and Software Development  
+🔬 Participant in the Delfín Research Program at IPN  
+🌎 Passionate about technology and research
 
-## 🛠 Tecnologías
+## 🛠 Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
