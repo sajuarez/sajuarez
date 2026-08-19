@@ -2,7 +2,7 @@
 
 🎓 Computer Systems Engineering student at UAdeC  
 💻 Interested in Artificial Intelligence, Machine Learning, and Software Development  
-🔬 Participant in the Delfín Research Program at IPN  
+🔬 Participant in Programa Delfín at IPN  
 🌎 Passionate about technology and research
 
 ## 🛠 Technologies
